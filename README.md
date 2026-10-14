@@ -27,6 +27,8 @@ Upload this project to your chosen repository. The included GitHub Actions workf
 
 The hero crop uses x=940–2048, y=0–590 of the supplied garage artwork, excluding baked-in UI. It is explicitly labeled as concept artwork. Gallery images preserve supplied promotional graphics, including their embedded Arabic text and claims; these are not represented as raw photographs or separate projects. The PPF feature reuses one gallery image as an editorial preview.
 
+
+
 English and Arabic UI translations are local. Original artwork and logo lettering remain unchanged in both languages. Fonts use local Inter/Tajawal when available and system Arial fallbacks; no third-party font requests are required. Language preference uses localStorage when available and still works in restricted browsers without persistence.
 
 External contact links match the supplied brief. No location, hours, prices, warranties, product brands, partnerships, reviews or performance claims have been added.
